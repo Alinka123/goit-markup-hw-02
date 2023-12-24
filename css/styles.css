@@ -107,7 +107,7 @@ color: #404bbf;
 .team-img {
     background: var(--WHITE, #FFF);
 }
-.team-list {
+.team-list-item {
    background-color: #FFFFFF;
 }
  .portfolio-item
