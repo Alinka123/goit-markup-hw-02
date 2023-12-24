@@ -92,7 +92,7 @@ color: #404bbf;
 }
 
 .team {
-    background: var(--CLOUD, #F4F4FD);
+    background-color: #FFFFFF;
 }
 .team-title, .portfolio-title
 {
